@@ -1,0 +1,21 @@
+#form_Section{
+    height: 65%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    border: solid rgb(255, 255, 255) 2px;
+}
+
+#form_Button{
+    margin-top: 30px;
+    width: 60%;
+}
+
+#users_list{
+    margin-top: -80%;
+    margin-left: 900px;
+    width: 80%;
+    height: 100%;
+}
