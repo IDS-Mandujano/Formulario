@@ -1,5 +1,4 @@
 import Text from "../atoms/Text";
-import './users.css'
 
 function Users(props){
     return (
